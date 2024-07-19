@@ -23,4 +23,4 @@ Gmeek不仅仅是一个技术、编程和创造力的角落，更是记录了我
 虽然没有什么东西是真正永恒的，但我们可以尽力让自己的博客在这个数字时代中存活更久，成为我们留给世界的一份礼物。让我们珍惜这个数字化的痕迹，让它们在 GitHub 中长寿不衰。
 
 # 原作者
-[Gmeek](blog.meekdai.com/post/ren-hui-si-，-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html)
+[Gmeek](https://blog.meekdai.com/post/ren-hui-si-，-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html)
